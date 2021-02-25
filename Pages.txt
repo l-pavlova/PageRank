@@ -1,0 +1,11 @@
+wikipedia.com - facebook.com
+facebook.com - googlePlatfom
+google.com - wikipedia.com, facebook.com, amazon.com, googleCloud
+amazon.com - google.com, googleCloud
+googlePlatform - amazon.com
+coursera - googleCloud
+moodle.com - google.com, wikipedia.com
+susi.com - moodle.com
+ozone.bg - facebook.com, amazon.com
+alabala.com - darkMagarko.com, google.com
+oosh.com - youWillPass, alabala.com, google.com, facebook.com
